@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.studiograficod2.it	TRUE	/	FALSE	1999999999	70aca445c549c6ddcdab4da826ea3a73	q5433337im8dhricltpt7k5h5g
-
