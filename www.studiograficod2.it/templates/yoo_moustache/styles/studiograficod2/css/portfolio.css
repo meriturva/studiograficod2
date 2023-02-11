@@ -1,0 +1,46 @@
+.portfolio-uikit .img_wrapper{
+  position:relative;
+  border:1px solid red;
+}
+
+.portfolio-uikit .img_wrapper img{
+  position:absolute;
+  left:0px;
+  top:0px;
+  right:100%;
+  bottom:100%;
+}
+
+.portfolio-uikit .img_wrapper .img_grayscale{
+  position:absolute;
+  left:0px;
+  top:0px;
+  right:100%;
+  bottom:100%;
+  z-index:998;
+}
+
+.portfolio-uikit .grayscaleFade{
+  clear:both;
+  border:1px solid black;
+}
+
+.portfolio-uikit .uk-overlay-area.onlyfade.showed{
+  opacity:1;
+}
+
+.portfolio-uikit .video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.portfolio-uikit .video iframe,
+.portfolio-uikit .video object,
+.portfolio-uikit .video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
